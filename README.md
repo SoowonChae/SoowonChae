@@ -1,6 +1,6 @@
 ## About me
 
-<h1 align="left">Hi 👋, I'm This is Soowon Chae, a developer of integrated renewable energy-based heat pump systems.</h1>
+<h1 align="left">Hi 👋, This is Soowon Chae, a developer of integrated renewable energy-based heat pump systems.</h1>
 <h3 align="left">I am on a mission to create a better, more sustainable world with every innovation!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soowonchae&label=Profile%20views&color=0e75b6&style=flat" alt="soowonchae" /> </p>
