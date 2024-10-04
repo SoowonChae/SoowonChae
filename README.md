@@ -39,7 +39,6 @@
 <br />
 
 <h3 align="left">📈 my github stats:</h3>
-<br />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soowonchae&show_icons=true&locale=en" alt="soowonchae" /></p>
 
