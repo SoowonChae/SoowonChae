@@ -36,10 +36,8 @@
    </a>
 </p>
 
-<br />
-
 <h3 align="left">📈 my github stats:</h3>
+<br />
+<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soowonchae&show_icons=true&locale=en" alt="soowonchae" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soowonchae&show_icons=true&locale=en" alt="soowonchae" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soowonchae&" alt="soowonchae" /></p>
+<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soowonchae&" alt="soowonchae" /></p>
