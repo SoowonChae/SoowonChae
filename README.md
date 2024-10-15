@@ -1,9 +1,9 @@
-## About me
+![image](https://github.com/user-attachments/assets/3a53e5b4-a978-48c6-be47-f972a2ebd00c)## About me
 
 <h1 align="left">Hi 👋, This is Soowon Chae, a developer of integrated renewable energy-based heat pump systems.</h1>
 <h3 align="left">I am on a mission to create a better, more sustainable world with every innovation!</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.notion.so/history-1142d921507a80e38566d8bb23635cf0?pvs=4](https://www.notion.so/history-1142d921507a80e38566d8bb23635cf0?pvs=4)
+- 👨‍💻 The PVT model development details are available at [https://www.notion.so/Photovoltaic-Thermal-PVT-system-1142d921507a80e38566d8bb23635cf0]
 
 - 💬 Ask me about **Renewable energy, heat pumps, RC models, dynamic analysis, energy evaluation, optimal control, capacity design**
 
