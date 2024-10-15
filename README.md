@@ -12,33 +12,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soowonchae&label=Profile%20views&color=0e75b6&style=flat" alt="soowonchae" /> </p>
 
-<h3 align="left">languages and tools</h3>
-<br />
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="30"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="30"/>
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" height="30"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="30"/>
-  </a>
-  
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="30"/>
-  </a>
-  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="30"/>
-   </a>
-</p>
+<h3> ✏ languages and tools<br/><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/tensorflow-FCC624?style=for-the-badge&logo=tensorflow&logoColor=black">
+<img src="https://img.shields.io/badge/javascript-EE4C2C?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/matlab-5C3EE8?style=for-the-badge&logo=matrix&logoColor=black">
+<img src="https://img.shields.io/badge/mysql-FF6F00?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/adobephotoshop-4479A1?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 <h3 align="left">📈 my github stats:</h3>
-<br />
-<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soowonchae&show_icons=true&locale=en" alt="soowonchae" /></p>
+<p  align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soowonchae&show_icons=true&locale=en" alt="soowonchae" /></p>
 
-<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soowonchae&" alt="soowonchae" /></p>
+<p  align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soowonchae&" alt="soowonchae" /></p>
