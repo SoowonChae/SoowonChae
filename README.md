@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3a53e5b4-a978-48c6-be47-f972a2ebd00c)## About me
+## About me
 
 <h1 align="left">Hi 👋, This is Soowon Chae, a developer of integrated renewable energy-based heat pump systems.</h1>
 <h3 align="left">I am on a mission to create a better, more sustainable world with every innovation!</h3>
